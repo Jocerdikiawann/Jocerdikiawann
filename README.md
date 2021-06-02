@@ -1,7 +1,7 @@
 ### Hello, I'M Jo! 👋
 
 - 🌱 I’m currently learning `JavaScript`,`Dart`,`Python`.
-- 📱  Mobile Developer [Cexup](https://cexup.com).
+- 📱  Junior Mobile Developer [Cexup](https://cexup.com).
 
 <p>
   <a href="https://www.twitter.com/hubungi_kholid">
