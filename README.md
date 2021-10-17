@@ -1,6 +1,6 @@
 ### Hello, I'M Jo! 👋
 
-- 🌱 I’m currently learning `JavaScript`,`Dart`,`Python`.
+- 🌱 I’m currently learning `JavaScript`,`Dart`,`Kotlin`.
 - 📱  Junior Mobile Developer [Cexup](https://cexup.com).
 
 <p>
