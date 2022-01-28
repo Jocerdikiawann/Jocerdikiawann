@@ -1,6 +1,6 @@
 ### Hello, I'M Jo! 👋
 
-- 🌱 I’m currently learning `Microservice`,`Docker`.
+- 🌱 I’m currently learning `Microservice`,`Docker`,`AI`,`IOT`.
 - 📱  Mobile Developer [Cexup](https://cexup.com).
 
 <p>
