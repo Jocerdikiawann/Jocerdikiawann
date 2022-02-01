@@ -1,4 +1,4 @@
-### Hello, I'M Jo! 👋
+### Hello, You can call me Parjo! 👋
 
 - 🌱 I’m currently learning `Microservice`,`Docker`,`Artificial Intelligence`,`Internet Of Things`.
 - 📱  Mobile Developer [Cexup](https://cexup.com).
