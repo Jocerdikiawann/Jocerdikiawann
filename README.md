@@ -1,6 +1,6 @@
-### Hello, You can call me Parjo! 👋
+### Hello, Call me kholid! 👋
 
-- 🌱 I’m currently learning `Microservice`,`Docker`,`Artificial Intelligence`,`Internet Of Things`.
+- 🌱  Technology enthusiast.
 - 📱  Mobile Developer [Cexup](https://cexup.com).
 
 <p>
