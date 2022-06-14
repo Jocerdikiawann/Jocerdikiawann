@@ -52,6 +52,6 @@ A **Technology** ***Enthusiast*** 🚀.
 <br />
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jocerdikiawann&count_private=true&theme=radical" alt="Jo" height="200"  />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jocerdikiawann&layout=compact&count_private=true&hide=html,css,php,tsql,roff&langs_count=8" alt="Counter" height="200">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jocerdikiawann&count_private=true&theme=radical" alt="Jo" height="150"  />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jocerdikiawann&layout=compact&count_private=true&hide=html,css,php,tsql,roff&langs_count=8" alt="Counter" height="150">
   </p>
