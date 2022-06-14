@@ -42,6 +42,16 @@ A **Technology** ***Enthusiast*** 🚀.
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vim/vim.png"></code>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Jocerdikiawann&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=fad000" alt="Jo GitHub Stats">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Jocerdikiawann&count_private=true&theme=radical" alt="Jo" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jocerdikiawann&layout=compact&count_private=true&hide=html,css,php,tsql,roff&langs_count=8" alt="Counter">
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=Jocerdikiawann&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=fad000" alt="Jo GitHub Stats"> -->
+
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jocerdikiawann&count_private=true&theme=radical" alt="Jo" width="45%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jocerdikiawann&layout=compact&count_private=true&hide=html,css,php,tsql,roff&langs_count=8" alt="Counter" width="45%">
+  </p>
