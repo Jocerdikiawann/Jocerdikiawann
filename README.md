@@ -23,7 +23,6 @@ A **Technology** ***Enthusiast*** 🚀.
 
 **About Me!**
 
-- 👨🏽‍💻 I'm currently studying at Universitas Cendekia Abditama
 - 📱  Mobile Developer [Cexup](https://cexup.com).
 - 📫 Email me at [hubungikholid@gmail.com](mailto:hubungikholid@gmail.com).
 
