@@ -12,7 +12,7 @@ A **Technology** ***Enthusiast*** 🚀.
 
 - 🔭 I’m currently working on [CeXup](https://cexup.com/)
 
-- 👯 I’m looking to collaborate on **Modularity**
+- 👯 I’m looking to collaborate on [Google brain](https://research.google/teams/brain/)
 
 - 📫 How to reach me **hubungikholid@gmail.com**
 
