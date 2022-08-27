@@ -14,7 +14,7 @@ A **Technology** ***Enthusiast*** 🚀.
 
 - 👯 I want to learn and collaborate on [Google brain](https://research.google/teams/brain/)
 
-- 📫 How to reach me **hubungikholid@gmail.com**
+- 📫 How to reach me **nurkholid0895@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
