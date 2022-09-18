@@ -12,8 +12,6 @@ A **Technology** ***Enthusiast*** 🚀.
 
 - 🔭 I’m currently working on [CeXup](https://cexup.com/)
 
-- 👯 I want to learn and collaborate on [Google brain](https://research.google/teams/brain/)
-
 - 📫 How to reach me **nurkholid0895@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
