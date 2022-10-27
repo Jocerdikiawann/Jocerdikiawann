@@ -2,9 +2,8 @@
 <br />
 
 
- 
 
-  <img align="right" alt="GIF" src="https://media.tenor.com/D0W4qt8F5AsAAAAC/rage-mob.gif" />
+  <img align="right" alt="GIF" src="https://media0.giphy.com/media/ZO8ZYFEnvIfrEF6AAZ/giphy.gif?cid=ecf05e475desxhtdhtnlhsvj27kkttzzsevdklqhu3wwujtg&rid=giphy.gif&ct=g" />
 
 <h3 title="hehehe"> Hey 👋, I`m Nur Kholid</h3>
 
