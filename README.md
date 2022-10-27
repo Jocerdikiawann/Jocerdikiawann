@@ -12,7 +12,7 @@ A **Technology** ***Enthusiast*** 🚀.
 
 - 🔭 I’m currently working on [CeXup](https://cexup.com/)
 
-- 📫 How to reach me [Email](nurkholid0895@gmail.com)
+- 📫 How to reach me **nurkholid0895@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
