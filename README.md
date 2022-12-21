@@ -7,7 +7,7 @@
 
 <h3 title="hehehe"> Hey 👋, I`m Nur Kholid</h3>
 
-A **Technology** ***Enthusiast*** 🚀.
+A **Android** ***Developer*** 🚀.
 
 - 🔭 I’m currently working on [CeXup](https://cexup.com/)
 
