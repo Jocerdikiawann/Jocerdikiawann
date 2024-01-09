@@ -27,7 +27,7 @@
 <br />
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jocerdikiawann&count_private=true&theme=radical" alt="Jo" height="150"  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jocerdikiawann&count_private=true&theme=radical" alt="img_stats" height="150"  />
 <img src="https://github-readme-stats.vercel.app/api?username=jocerdikiawann&show_icons=true&locale=en" alt="jocerdikiawann" height="150" />
   </p>
   
