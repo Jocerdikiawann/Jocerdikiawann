@@ -7,7 +7,7 @@
 
 <h3 title="hehehe"> Hey 👋, I`m Nur Kholid</h3>
 
-**Android** ***Developer*** 🚀.
+**Software** ***Developer*** 🚀.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
