@@ -9,7 +9,7 @@
 
 **Android** ***Developer*** 🚀.
 
-- 🔭 I’m currently working on [CeXup](https://cexup.com/)
+- 🔭 I’m currently working on [Inspiro](https://inspirotechs.com/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
