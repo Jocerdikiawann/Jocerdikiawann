@@ -3,7 +3,7 @@
 
 
 
-  <img align="right" src="https://media0.giphy.com/media/12BYUePgtn7sis/giphy.gif?cid=ecf05e475421msltsq4pupn0oazb9a92i1li6nqcmsa5cd30&amp;rid=giphy.gif&amp;ct=g" alt="programmer dilemma GIF" style="width: 350px; height: 350px; left: 0px; top: 0px; opacity: 0;">
+  <img align="right" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMndjdHpqajE3M21kNjQzZHpkZGg4dHF6MDRsMGRuemcydDl2bGJpcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13HgwGsXF0aiGY/giphy.gif" alt="programmer dilemma GIF" style="width: 80%; height: 80%; left: 0px; top: 0px; opacity: 0;">
 
 <h3 title="hehehe"> Hey 👋, I`m Nur Kholid</h3>
 
