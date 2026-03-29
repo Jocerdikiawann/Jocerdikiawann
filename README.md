@@ -1,3 +1,4 @@
-<img align="top" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGM4d3FzdGduY3kxZjN2ajRsZmhlOTlkd3FxYm52a29nbm5qNXQ4OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MrMhLxPXOqGK4/giphy.webp" alt="programmer dilemma GIF" style="width: 80%; height: 80%; left: 0px; top: 0px; opacity: 0;">
+### **Nur Kholid** | Daytime coder, nighttime hobbyist.  
 
-I'm batman but not rich yet. Smart? I doubt it.
+I enjoy working on personal projects for fun and exploration after a long day at work.  
+Right now, I’m experimenting with systems programming, emulators, and anything else that gets me excited.
